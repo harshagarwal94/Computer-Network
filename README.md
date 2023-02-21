@@ -2,7 +2,7 @@
 Provides information regarding Computer Network taught at VIT (Vellore Institute of Technology)
 (VIT BHOPAL UNIVERSITY)
 
-### Course Instructor :- Abha Trivedi
+### Course Instructor :- Dr. Abha Trivedi
 
 # Disclaimer
 * For Educational Purpose
